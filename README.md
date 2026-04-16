@@ -11,12 +11,11 @@ I'm a passionate developer excited about building robust, scalable, and efficien
 I believe in clean code, continuous learning, and the power of community in fostering growth and innovation. Whether it's crafting intricate backend logic, optimizing database performance, or exploring new paradigms, I'm always up for a challenge!
 
 ## 🎯 Current Focus
-
-🔭 Working on: University project & Real-world .NET Projects
-🌱 Learning: Advanced .NET, SQL Optimization & System Design
-👯 Looking to collaborate on: Open Source Projects (Web Development / Backend Systems)
-💬 Ask me about: .NET Development, SQL, API Design, and Web Applications
-⚡ Fun fact: I enjoy solving real-world problems with code and continuously improving my logic-building skills
+- 🔭 Working on: University Project & Real-world .NET Projects<!-- TODO: Add your current main project -->
+- 🌱 Learning:  Advanced .NET Core, JAVA ,SQL Optimization & System Design<!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: Open Source Projects (Web Development / Backend Systems)
+- 💬 Ask me about:.NET Development, SQL, API Design,React, JS and Web Applications  <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: I enjoy solving real-world problems with code and continuously improving my logic-building skills <!-- TODO: Add a fun fact -->
 ---
 
 ## 🛠️ Technology Arsenal
