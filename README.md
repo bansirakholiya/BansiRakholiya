@@ -12,12 +12,11 @@ I believe in clean code, continuous learning, and the power of community in fost
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Your Current Main Project Name]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **[Technology/Skill like 'GoLang for backend services' or 'Advanced React Hooks']** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source Projects focusing on [e.g., Web3, AI/ML, Cloud Infrastructure]**
-- 💬 Ask me about: **[Your Expertise Areas like 'Node.js architecture', 'cloud deployment strategies', 'database design']** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **[An interesting fact about you! e.g., 'I once built a smart home device using a Raspberry Pi!']** <!-- TODO: Add a fun fact -->
-
+🔭 Working on: University project & Real-world .NET Projects
+🌱 Learning: Advanced .NET, SQL Optimization & System Design
+👯 Looking to collaborate on: Open Source Projects (Web Development / Backend Systems)
+💬 Ask me about: .NET Development, SQL, API Design, and Web Applications
+⚡ Fun fact: I enjoy solving real-world problems with code and continuously improving my logic-building skills
 ---
 
 ## 🛠️ Technology Arsenal
@@ -26,34 +25,25 @@ My toolkit is constantly evolving, but here are some of the technologies I'm pro
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!-- TODO: Add/remove languages based on your actual skills -->
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 <!-- TODO: Add your actual frameworks -->
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 <!-- TODO: Add your cloud/devops tools -->
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 <!-- TODO: Add your databases -->
 
 ---
@@ -123,9 +113,9 @@ My toolkit is constantly evolving, but here are some of the technologies I'm pro
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 🏆 **AWS Certified Solutions Architect - Associate**: Validates expertise in designing scalable and fault-tolerant systems on AWS.
+
 - 📜 **Google Cloud Professional Developer**: Demonstrates proficiency in building and deploying cloud-native applications on GCP.
-- 🥇 **HackerRank 5-star in Python**: Achieved top-tier ranking for problem-solving skills in Python.
+
 - 📊 **Coursera Machine Learning Specialization**: Completed a comprehensive program in fundamental machine learning concepts and algorithms.
 
 ## 📝 Latest Blog Posts
@@ -148,14 +138,14 @@ My toolkit is constantly evolving, but here are some of the technologies I'm pro
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn profile URL -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle URL -->
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your personal portfolio website URL -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your professional email address -->
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog URL -->
 
 ### 📱 Social Presence
 [![GitHub followers](https://img.shields.io/github/followers/bansirakholiya?style=social)](https://github.com/bansirakholiya)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
+
 
 </div>
 
